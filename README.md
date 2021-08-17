@@ -6,6 +6,7 @@ Gameplay preview
 ![Obstacle Course](https://user-images.githubusercontent.com/71871620/129717002-7eeec341-e533-41a7-841f-feac27671987.gif)
 
 This game is based on the first section of the GameDev.tv Unity 3D course.
+
 My original implementations are:
 - Player moves a ball instead of a cube.
 - Instead of direct control through arrow keys, players control the ground's inclination angle with the mouse movement. The ball moves appropriately in response.
