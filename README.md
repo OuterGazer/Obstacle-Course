@@ -5,6 +5,13 @@ Gameplay preview
 
 ![Obstacle Course](https://user-images.githubusercontent.com/71871620/129717002-7eeec341-e533-41a7-841f-feac27671987.gif)
 
+Some design diagrams
+
+![Beginning 2](https://user-images.githubusercontent.com/71871620/129935032-5712bc4a-a7d2-42dd-a9bc-4d21c3f4705a.png)
+
+![First Cube 3](https://user-images.githubusercontent.com/71871620/129935253-de410ce6-ac4f-4943-9364-cc0bb6f4008c.png)
+
+
 This game is based on the first section of the GameDev.tv Unity 3D course.
 
 My original implementations are:
